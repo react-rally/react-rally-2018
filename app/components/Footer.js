@@ -45,7 +45,7 @@ export default () => {
         <Icon href="https://instagram.com/reactrally" type="instagram"/>
       </div>
       <div className="Footer__Copyright">
-        &copy; {new Date().getFullYear()} <a href="http://www.traceevents.io" target="_blank">Trace Events, LLC</a>
+        &copy; {new Date().getFullYear()} <a href="https://www.trace.events" target="_blank">Trace Events, LLC</a>
       </div>
     </div>
   )
